@@ -1,16 +1,18 @@
 body{
   font-family: sans-serif;
+  text-align: center;
   background-color: rgb(51, 153, 255);
 }
+p.dotted {border-style: dotted;}
 
 a:link{
   color: rgb(255, 255, 255);
 }
 
 a:visited{
-  color: rgb(255, 255, 255);
+  color: rgb(255, 255, 0);
 }
 
 a:hover{
-  color: rgb(255, 255, 0);
+  color: rgb(255, 0, 0);
 }
