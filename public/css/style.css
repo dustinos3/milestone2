@@ -1,1 +1,16 @@
+body{
+  font-family: sans-serif;
+  background-color: rgb(51, 153, 255);
+}
 
+a:link{
+  color: rgb(255, 255, 255);
+}
+
+a:visited{
+  color: rgb(255, 255, 255);
+}
+
+a:hover{
+  color: rgb(255, 255, 0);
+}
